@@ -1,5 +1,5 @@
 {
-    "_comment": "Discord User to Roblox UserID Mapping - Auto-generated - DO NOT EDIT MANUALLY - Last updated: 2026-01-17 22:00:12.995662+00:00",
+    "_comment": "Discord User to Roblox UserID Mapping - Auto-generated - DO NOT EDIT MANUALLY - Last updated: 2026-01-20 22:03:19.337102+00:00",
     "mappings": {
         "1338227995835371710": [
             1161760326,
@@ -29,6 +29,9 @@
         ],
         "1360601735323844760": [
             7128986126
+        ],
+        "1336672959557013659": [
+            8282410336
         ]
     }
 }
